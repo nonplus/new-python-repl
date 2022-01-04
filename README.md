@@ -1,4 +1,4 @@
-# My README
+# My Project
 Simple (or clever and funny?) description
 ## Table of Contents
 - [Background](#background)
